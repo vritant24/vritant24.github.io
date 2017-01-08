@@ -1,16 +1,9 @@
-html {
-    background: url('../canvas-dark.png') no-repeat center center fixed;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 100%;
-}
 
 body {
   display: flex;
   min-width: 100%;
   min-height: 110vh;
   flex-direction: column;
-  overflow: scroll;
 }
 
 main {
@@ -20,12 +13,12 @@ main {
      left: 0;
      width: 100vw;
      height: inherit;
-     /*background: url('../canvas-dark.png') no-repeat center center;
+     background: url('../canvas-dark.png') no-repeat center center;
      background-size: cover;
      -webkit-background-size: cover;
 	   -moz-background-size: cover;
 	   -o-background-size: cover;
-     background-attachment: fixed;*/
+     background-attachment: fixed;
 }
 
 #blah {
