@@ -23,6 +23,24 @@ body:before {
   background-size: cover;
 }
 
+body {
+  display: flex;
+  min-width: 100%;
+  min-height: 110vh;
+  flex-direction: column;
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: -10;
+  background: url(photos/2452.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 main {
      flex: 1 0 auto;
      margin: 0 auto;
