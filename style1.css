@@ -11,7 +11,7 @@ main {
      position: relative;
      height: 100%;
      width: 100%;
-     background: url('../canvas-dark.png') no-repeat center center fixed;
+     background: url('../canvas-dark.png') no-repeat center center;
      background-size: cover;
      -webkit-background-size: cover;
 	   -moz-background-size: cover;
