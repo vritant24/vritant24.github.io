@@ -1,16 +1,26 @@
-html {
+/*html {
     background: url('../canvas-dark.png') no-repeat center center fixed;
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
-}
+}*/
 
-body {
+body:before {
   display: flex;
   min-width: 100%;
   min-height: 110vh;
   flex-direction: column;
-  overflow: scroll;
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: -10;
+  background: url(photos/2452.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 main {
