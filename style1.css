@@ -90,7 +90,7 @@ nav {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -30%);
+  transform: translate(-50%, -20%);
   /*text-shadow: 0 0 45px black;*/
   opacity: 0.95;
   color: #212121;
@@ -99,7 +99,6 @@ nav {
 @media (min-width: 200px) {
   #masthead {
     font-size: 15vh;
-    top: 40%;
   }
 }
 
