@@ -90,7 +90,7 @@ nav {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -20%);
+  transform: translate(-50%, -50%);
   /*text-shadow: 0 0 45px black;*/
   opacity: 0.95;
   color: #212121;
