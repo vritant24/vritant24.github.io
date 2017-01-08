@@ -15,8 +15,8 @@ main {
      background: url('../canvas-dark.png') no-repeat center center;
      background-size:cover;
      -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
      background-attachment: fixed;
 }
 
@@ -105,4 +105,15 @@ nav {
   /*text-shadow: 0 0 45px black;*/
   opacity: 0.95;
   color: #212121;
+}
+@media (min-width: 200px) {
+  #masthead {
+    font-size: 15vh;
+  }
+}
+
+@media (min-width: 720px) {
+  #masthead {
+    font-size: 30vh;
+  }
 }
