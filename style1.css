@@ -1,4 +1,4 @@
-html {
+html: before {
     background: url('../canvas-dark.png') no-repeat center center fixed;
     background-size: cover;
     background-attachment: fixed;
