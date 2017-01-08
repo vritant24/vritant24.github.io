@@ -14,6 +14,7 @@ main {
      width: 100%;
      background: url('../canvas-dark.png') no-repeat center center;
      background-size:cover;
+     background-attachment: fixed;
 }
 
 #blah {
@@ -81,4 +82,24 @@ nav {
 
 .side-nav a {
   color: white;
+}
+
+.display-card {
+  background: white;
+  border-radius: 5px;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: inherit;;
+}
+
+#masthead {
+  font-size: 30vh;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /*text-shadow: 0 0 45px black;*/
+  opacity: 0.95;
+  color: #212121;
 }
