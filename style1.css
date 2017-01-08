@@ -1,5 +1,6 @@
 body {
   display: flex;
+  min-width: 100%;
   min-height: 110vh;
   flex-direction: column;
 }
@@ -12,11 +13,11 @@ main {
      left: 0;
      height: 100%;
      width: 100%;
-     background: url('../canvas-dark.png') no-repeat center center;
-     background-size:cover;
+     background: url('../canvas-dark.png') no-repeat center center fixed;
+     background-size: cover;
      -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
+	   -moz-background-size: cover;
+	   -o-background-size: cover;
      background-attachment: fixed;
 }
 
@@ -27,8 +28,7 @@ main {
 nav .brand-logo {
    color: #fbc02d;
    padding-left: 10px;
-   font-size: 1.7rem;
-   font-family: 'Crimson Text', serif;
+   font-size: 1.4rem;
    margin-right: 10px;
 }
 
@@ -93,7 +93,7 @@ nav {
   text-align: center;
   padding-left: 15px;
   padding-right: 15px;
-  width: inherit;;
+  width: inherit;
 }
 
 #masthead {
@@ -106,6 +106,7 @@ nav {
   opacity: 0.95;
   color: #212121;
 }
+
 @media (min-width: 200px) {
   #masthead {
     font-size: 15vh;
