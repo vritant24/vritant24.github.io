@@ -1,9 +1,16 @@
+html {
+    background: url('../canvas-dark.png') no-repeat center center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
 
 body {
   display: flex;
   min-width: 100%;
   min-height: 110vh;
   flex-direction: column;
+  overflow: scroll;
 }
 
 main {
@@ -13,12 +20,12 @@ main {
      left: 0;
      width: 100vw;
      height: inherit;
-     background: url('../canvas-dark.png') no-repeat center center;
+     /*background: url('../canvas-dark.png') no-repeat center center;
      background-size: cover;
      -webkit-background-size: cover;
 	   -moz-background-size: cover;
 	   -o-background-size: cover;
-     background-attachment: fixed;
+     background-attachment: fixed;*/
 }
 
 #blah {
@@ -80,10 +87,10 @@ nav {
 
 #masthead {
   font-size: 30vh;
-  position: fixed;
-  top: 20%;
-  left: 20%;
-  /*transform: translate(-50%, -50%);*/
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -30%);
   /*text-shadow: 0 0 45px black;*/
   opacity: 0.95;
   color: #212121;
