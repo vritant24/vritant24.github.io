@@ -101,25 +101,17 @@ nav .brand-logo {
   font-size: 1.1rem;
 }
 
-/*@media (min-width: 100px) {
+@media (min-width: 100px) {
   #masthead {
     font-size: 10vh;
   }
-}*/
+}
 
 @media (min-width: 500px) {
   #masthead {
-    display: block;
     font-size: 30vh;
   }
   nav .brand-logo {
     font-size: 1.4rem;
-  }
-}
-
-
-@media only screen and (min-width : 320px) and (max-width : 480px) {
-  #masthead {
-    display: none;
   }
 }
