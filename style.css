@@ -19,13 +19,13 @@ h1, h3 {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 7rem;
   color: #eee;
   margin-bottom: 5%;
 }
 
 h3 {
-  font-size: 2.5rem;
+  font-size: 4rem;
   color: #e53935;
 }
 
@@ -40,4 +40,17 @@ h3 {
 
 .fa:hover {
   color: #e53935;
+}
+
+@media screen and (min-width: 480px) {
+  h1 {
+    font-size: 5rem;
+    color: #eee;
+    margin-bottom: 5%;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+    color: #e53935;
+  }
 }
