@@ -5,7 +5,7 @@ html, body {
 }
 
 #masthead {
-  height: 100%;
+  height: 80%;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -13,13 +13,13 @@ html, body {
   align-items: center;
 }
 
-h1, h3 {
+h1 {
   font-family: 'Roboto', sans-serif;
   margin: 0;
 }
 
 h1 {
-  font-size: 9rem;
+  font-size: 8vh;
   color: #e53935;
 }
 
@@ -36,8 +36,11 @@ h1 {
   color: #e53935;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 500px) {
   h1 {
-    font-size: 5rem;
+    font-size: 8vw;
+  }
+  #masthead {
+    height: 100%;
   }
 }
