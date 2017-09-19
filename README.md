@@ -32,7 +32,9 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     * CS 348 Information Systems
     * CS 352 Introduction to Compilers
     * CS 408 Software Testing
+    
 ---
+
 ### **Experience**
 * ##### **Undergraduate Teaching Assistant** *(August 2017 - Present)*
     - Purdue's CS 25200 Systems Programming Course.
@@ -48,6 +50,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - Create and manage the official website using HTML, CSS and JavaScript.
     - Create and hold events with the members of the council to develop a community in the College of Science.
     - [Website](https://purdue.edu/pssc)
+    
 ---
 
 ### **Projects**
@@ -62,7 +65,9 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - A Fashion Blog written by Anokhi Bhardwaj.
     - Designed responsive UI and UX, structured with React.js, routed using react router, and styled with Styled Components.
     - [Website](https://fivefeetfashion.github.io)
+    
 ---
+
 ### **Skills**
 * ##### **Proficient**
     - C
@@ -87,11 +92,10 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - Git
     - Unix/Linux
     - Photoshop
+    
 ---
 
 ### **Contact** 
 * `Email` - bhardwav@purdue.edu
 * `GitHub` - [vritant24](http://github.com/vritant24)
-* `LinkedIn` - [in/vritant-bhardwaj](https://www.linkedin.com/in/vritant-bhardwaj/)- Collaborate with Physics majors to analyse data from the Xenon1T detector in Italy to find Dark Matter.
-    - Work with MatPlotLib on Jupyter to analyse data from the detector.
-
+* `LinkedIn` - [in/vritant-bhardwaj](https://www.linkedin.com/in/vritant-bhardwaj/)- Collaborate with Physics majors to 
