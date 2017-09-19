@@ -13,7 +13,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
   * [Education](#education)
   * [Experience](#experience)
   * [Projects](#projects)
-  * [Skils](#skills)
+  * [Skills](#skills)
   * [Contact](#contact)
   
 ---
