@@ -52,7 +52,9 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - A Fashion Blog written by Anokhi Bhardwaj.
     - Designed responsive UI and UX, structured with React.js, routed using react router, and styled with Styled Components.
     - [Website](https://fivefeetfashion.github.io)
+    
 ---
+
 ### **Skills**
 * ##### **Proficient**
     - C
