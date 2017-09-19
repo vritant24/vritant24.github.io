@@ -8,6 +8,16 @@ My interests and skills lean towards Front-End development for software applicat
 Currently looking for an Internship during the Summer of 2018 (May - August)
 
 ---
+
+# Table of Contents
+  * [Education](#education)
+  * [Experience](#experience)
+  * [Projects](#projects)
+  * [Skils](#skills)
+  * [Contact](#contact)
+  
+---
+
 ### **Education**
 ##### **Purdue University** *(August 2015 - May 2019)*
 - BSc. in Computer Science
@@ -52,9 +62,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - A Fashion Blog written by Anokhi Bhardwaj.
     - Designed responsive UI and UX, structured with React.js, routed using react router, and styled with Styled Components.
     - [Website](https://fivefeetfashion.github.io)
-    
 ---
-
 ### **Skills**
 * ##### **Proficient**
     - C
