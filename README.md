@@ -64,29 +64,13 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - [Website](https://fivefeetfashion.github.io)
 ---
 ### **Skills**
-* ##### **Proficient**
-    - C
-    - Java
-    - CSS
-    - HTML
-    - Javascript
-
-* ##### **Intermediate**
-    - SQL
-    - Scala
-    - Python
-    - Matlab
-
-* ##### **Frameworks / Libraries**
-    - React.js
-    - Node.js
-    - Less/Sass
-    - Google Chart
-
-* ##### **Other**
-    - Git
-    - Unix/Linux
-    - Photoshop
+|Proficient |Intermediate|Tools|Other
+|:-:|:-:|:-:|:-:|
+|C|SQL|React.js|Git|
+|Java|Scala|Node.js|Unix|
+|CSS|Python|Less/Sass|Photoshop|
+|Java|Matlab|Google Charts||
+|JavaScript||||
 ---
 
 ### **Contact** 
