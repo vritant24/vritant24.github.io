@@ -66,6 +66,11 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - Designed responsive UI and UX, structured with React.js, routed using react router, and styled with Styled Components.
     - [Website](https://fivefeetfashion.github.io)
     
+* ##### **Square CI** *(August 2017 - December 2017)*
+    - An application for continuous integration and deployment of Node Based applications with Mocha tests.
+    - Deploys newly pushed code to alpha, beta and or prod endpoints depending on the tests passed.
+    - Acted as team leader and followed the Scrum process to develop the application.
+    - Built frontend with React.js, and beckend API with express server in Node.js
 ---
 
 ### **Skills**
