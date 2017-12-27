@@ -8,6 +8,14 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
 
 ---
 
+
+### **Contact** 
+* `Email` - vritant.b@gmail.com
+* `GitHub` - [vritant24](http://github.com/vritant24)
+* `LinkedIn` - [in/vritant-bhardwaj](https://www.linkedin.com/in/vritant-bhardwaj/) 
+
+---
+
 ## Quick Links
   * [Education](#education)
   * [Experience](#experience)
@@ -98,9 +106,3 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - Unix/Linux
     - Photoshop
     
----
-
-### **Contact** 
-* `Email` - bhardwav@purdue.edu
-* `GitHub` - [vritant24](http://github.com/vritant24)
-* `LinkedIn` - [in/vritant-bhardwaj](https://www.linkedin.com/in/vritant-bhardwaj/)- Collaborate with Physics majors to 
