@@ -1,0 +1,10 @@
+:root {
+    --accent-color: hsla(176.5, 64.4%, 53.7%, 1); 
+    --bg-color: hsla(0, 0%, 99%, 1);
+}
+
+
+$accent-color: var(--accent-color);
+// $accent-color: #444;
+$bg-color: var(--bg-color);
+
