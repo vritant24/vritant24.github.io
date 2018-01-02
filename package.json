@@ -1,0 +1,22 @@
+{
+  "name": "vritant.me",
+  "version": "0.0.1",
+  "description": "vritant bhardwaj's official website",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass styles/sass/main.scss styles/css/main.css -w --source-map true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vritant24/vritant24.github.io.git"
+  },
+  "author": "vritant bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vritant24/vritant24.github.io/issues"
+  },
+  "homepage": "https://github.com/vritant24/vritant24.github.io#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
