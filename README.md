@@ -10,7 +10,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
 
 
 ### **Contact** 
-* `Email` - vritant.b@gmail.com
+* `Email` - [vritant.b@gmail.com](mailto:vritant.b@gmail.com)
 * `GitHub` - [vritant24](http://github.com/vritant24)
 * `LinkedIn` - [in/vritant-bhardwaj](https://www.linkedin.com/in/vritant-bhardwaj/) 
 
