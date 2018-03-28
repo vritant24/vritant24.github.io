@@ -1,8 +1,8 @@
 # **VRITANT BHARDWAJ**
 
-I am currently a Junior at Purdue University, majoring in Computer Science and focusing on the Software Engineering and the Machine Learning tracks. Furthermore, I am pursuing a certificate in Entrepreneurship. 
+I am currently a Junior at Purdue University, majoring in Computer Science and focusing on the Software Engineering, Systems Prgoramming and Programming Languages tracks. Furthermore, I am pursuing a certificate in Entrepreneurship. 
 
-My interests and skills lean towards Front-End development for software applications as well as Data Analysis. I consider myself a design minded developer and so, my philosophy is to make user experience and technical functionality to work hand in hand.
+I consider myself a design minded developer and like to work with practical applications. My philosophy is to make user experience and technical functionality to work hand in hand.
 
 Currently looking for an Internship during the Summer of 2018 (May - August)
 
@@ -29,17 +29,17 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
 ##### **Purdue University** *(August 2015 - May 2019)*
 - BSc. in Computer Science
 - Certificate in Entrepreneurship
-- GPA - 3.56
+- GPA - 3.65
 - Concentrations 
     * Software Engineering
-    * Machine Learning
-    * Databases
+    * Systems Programming
+    * Programming Languages
 - Courses Taken
-    * CS 251 Data Structures and Algorithms
     * CS 307 Software Engineering I
-    * CS 348 Information Systems
     * CS 352 Introduction to Compilers
+    * CS 381 Analysis of Algorithms
     * CS 408 Software Testing
+    * CS 456 Programming Languages
     
 ---
 
@@ -63,7 +63,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
 
 ### **Projects**
 * ##### **Reservoir Planning Tool** *(January 2017 - May 2017)*
-    - A website to help drainage contractors and researchers in Midewest Indiana better plan reservoir ponds.
+    - A website to help drainage contractors and researchers in Midwest Indiana better plan reservoir ponds.
     - Created in association with the Transforming Drainage Project.
     - Created by following the SCRUM process.
     - Created the UI, managed UX, and implemented Google Charts.
@@ -99,7 +99,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - React.js
     - Node.js
     - Less/Sass
-    - Google Chart
+    - Google Charts
 
 * ##### **Other**
     - Git
