@@ -78,7 +78,8 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
     - An application for continuous integration and deployment of Node Based applications with Mocha tests.
     - Deploys newly pushed code to alpha, beta and or prod endpoints depending on the tests passed.
     - Acted as team leader and followed the Scrum process to develop the application.
-    - Built frontend with React.js, and beckend API with express server in Node.js
+    - Built frontend with React.js, and backend API with an express server in Node.js.
+    
 ---
 
 ### **Skills**
