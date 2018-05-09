@@ -29,7 +29,7 @@ Currently looking for an Internship during the Summer of 2018 (May - August)
 ##### **Purdue University** *(August 2015 - May 2019)*
 - BSc. in Computer Science
 - Certificate in Entrepreneurship
-- GPA - 3.65
+- GPA - 3.72
 - Concentrations 
     * Software Engineering
     * Systems Programming
