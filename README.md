@@ -45,7 +45,7 @@ I consider myself a design minded developer and like to work with practical appl
 * ##### **Software Engineer intern (Infrastructure) - Salesforce** *(August 2017 - Present)*
     - Designed and built applications to extend current monitoring infratructure with scalable real time aggregation of metrics.
     - Used AWS Lambda, AWS SQS, and AWS Elasticache with Redis Cluster to aggregate and store 13 million unique metrics per minute.
-    - Designed arvhitecture to allow infratructure to handle 3 times the current load.
+    - Designed architecture to handle 3 times the current load.
     - Updated existing protocol, used to transport metrics across services, to be more extensible.
 
 * ##### **Undergraduate Teaching Assistant** *(August 2017 - Present)*
