@@ -42,6 +42,12 @@ I consider myself a design minded developer and like to work with practical appl
 ---
 
 ### **Experience**
+* ##### **Software Engineer intern (Infrastructure) - Salesforce** *(August 2017 - Present)*
+    - Designed and built applications to extend current monitoring infratructure with scalable real time aggregation of metrics.
+    - Used AWS Lambda, AWS SQS, and AWS Elasticache with Redis Cluster to aggregate and store 13 million metrics per second.
+    - Designed arvhitecture to allow infratructure to handle 3 times the current load.
+    - Updated existing protocol, used to transport metrics across services, to be more extensible.
+
 * ##### **Undergraduate Teaching Assistant** *(August 2017 - Present)*
     - Purdue's CS 25200 Systems Programming Course.
     - Assist in the teaching of undergraduate students.
