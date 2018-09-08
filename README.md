@@ -1,8 +1,8 @@
 # **VRITANT BHARDWAJ**
 
-I am currently a Junior at Purdue University, majoring in Computer Science and focusing on the Software Engineering, Systems Programming, and Programming Languages tracks. Furthermore, I am pursuing a certificate in Entrepreneurship. 
+I am currently a Senior at Purdue University, majoring in Computer Science with concentrations on Software Engineering and Programming Languages. Furthermore, I am pursuing a certificate in Entrepreneurship.
 
-I consider myself a design minded developer and like to work with practical applications. My philosophy is to make user experience and technical functionality to work hand in hand.
+In my three years in college, I have learnt that Computer Science as a whole is an immensely powerful field, with the capability of assisting all others. Bringing out the potential of Computer Science is what I strive to do, and teaching others the beauty of it is also a passion of mine.
 
 ---
 
