@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500&display=swap');
 
 :root {
-    font-family: 'Rajdhani', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 14px;
 }
 
 body, html {
@@ -107,3 +108,32 @@ main {
     background: hsl(43.2, 95.2%, 57.6%);
 }
 
+@media only screen and (max-width: 950px) {
+    :root {
+      font-size: 12px;
+    }
+    .masthead {
+        justify-content: flex-start;
+    }
+    .masthead-cont {
+        padding-left: 5rem;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    :root {
+      font-size: 9px;
+    }
+
+    .masthead-contact {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .contact-link {
+        font-size: 1.4rem;
+        margin-bottom: 5px;
+    }
+    
+}
