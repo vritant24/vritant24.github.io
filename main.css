@@ -42,8 +42,8 @@ main {
     font-weight: 400;
     font-size: 5rem;
     letter-spacing: 0.8rem;
-
-    margin-bottom: 5px;
+    line-height: 4.7rem;
+    margin-bottom: 15px;
 }
 
 .masthead-h2 {
