@@ -68,7 +68,7 @@
 
         aquarelle.addEventListener('changed', function(event) {
             var canvas = this.getCanvas();
-            canvas.style.webkitFilter = 'blur(' + this.transitionInRange(0, 20, 2500) + 'px)';
+            canvas.style.webkitFilter = 'blur(' + this.transitionInRange(0, 20, 1500) + 'px)';
             canvas.style.webkitTransform = canvas.style.transform = 'scale(' + this.transitionInRange(1.2, 1.5) + ')';
         });
     
