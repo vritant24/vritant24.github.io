@@ -1,0 +1,13 @@
+{
+  "name": "three.js",
+  "homepage": "https://github.com/mrdoob/three.js",
+  "_release": "53d3cd4b42",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "53d3cd4b42998db9290977f385d7df29b598a3fd"
+  },
+  "_source": "https://github.com/mrdoob/three.js.git",
+  "_target": "*",
+  "_originalSource": "threejs"
+}
