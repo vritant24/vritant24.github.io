@@ -112,26 +112,6 @@ main {
 }
 
 
-/* **** watercolor **** */
-#splash {
-    display: none;
-}
-
-img {
-    width: inherit;
-    height: inherit;
-}
-canvas {
-    width: 100vw !important;
-    position: absolute;
-    top: calc(-60vw);
-    left: 0%;
-
-    opacity: 0.6;
-    z-index: -1;
-}
-
-
 
 @media only screen and (max-width: 950px) {
     :root {
@@ -159,12 +139,5 @@ canvas {
     .contact-link {
         font-size: 1.4rem;
         margin-bottom: 5px;
-    }
-    
-    
-    canvas {
-        top: calc(-20vw);
-        left: 0%;
-        right: 30%;
     }
 }

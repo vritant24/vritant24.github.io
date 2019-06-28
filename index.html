@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="main.css" rel="stylesheet" type="text/css">
-    <title>Document</title>
+    <title>V B</title>
 </head>
 <body>
     <main>
@@ -27,51 +27,7 @@
                 
             </div>
         </div>
-        <!-- <img id="splash" src="squaresplash.png"> -->
     </main>
 
-    <script src="bower_components/three.js/build/three.js"></script>
-
-    <script src="bower_components/aquarelle/Aquarelle.js"></script>
-
-    <script src="bower_components/three.js/examples/js/postprocessing/EffectComposer.js"></script>
-
-    <script src="bower_components/three.js/examples/js/postprocessing/ClearPass.js"></script>
-    <script src="bower_components/aquarelle/AquarellePass.js"></script>
-    <script src="bower_components/three.js/examples/js/postprocessing/ShaderPass.js"></script>
-    <script src="bower_components/three.js/examples/js/shaders/CopyShader.js"></script>
-
-    <script>
-        var image = document.getElementById('splash');
-        
-        var aquarelle = new Aquarelle(image, 'mask1.png', {
-            autoplay: true,
-            loop: false,
-            duration: 8000,
-
-            fromAmplitude: 10,
-            toAmplitude: 50,
-
-            fromFrequency: 10,
-            toFrequency: 7,
-
-            fromOffset: -30,
-            toOffset: 30,
-        });
-
-        aquarelle.addEventListener('created', function() {
-            var canvas = this.getCanvas();
-            canvas.removeAttribute('style');
-            image.parentNode.insertBefore(canvas, image.nextSibling);
-            image.parentNode.removeChild(image);
-        });
-
-        aquarelle.addEventListener('changed', function(event) {
-            var canvas = this.getCanvas();
-            canvas.style.webkitFilter = 'blur(' + this.transitionInRange(0, 20, 1500) + 'px)';
-            canvas.style.webkitTransform = canvas.style.transform = 'scale(' + this.transitionInRange(1.2, 1.5) + ')';
-        });
-    
-    </script>
 </body>
 </html>
